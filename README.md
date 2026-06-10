@@ -5,11 +5,11 @@
 
 ## Dashboard File
 
-You can find the file for the dashboard here: [World_Wide_Importers_Dashboard.pbix](./World_Wide_Importers_Dashboard.pbix).
+You can find the file for the dashboard here: [World_Wide_Importers_Dashboard.pbix](./World_Wide_Importers_Dashboard.pbix)
 
 ## Datasets
 
-You can find datasets I used for the dashboard here: [Datasets](./datasets).
+You can find datasets I used for the dashboard here: [Datasets](./datasets)
 
 ## Skills Showcased
 
