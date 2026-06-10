@@ -19,7 +19,7 @@ This Dashboard helps company's executives make data-driven decisions answering f
 <img width="2073" height="1173" alt="image" src="https://github.com/user-attachments/assets/c7b8efc4-4314-4491-877b-13480b9795dc" />
 
 ### 2. Insights
-<img width="2067" height="1173" alt="image" src="https://github.com/user-attachments/assets/35fb73bc-14e1-41f9-9134-512e49a5a4d7" />
+<img width="2061" height="1173" alt="image" src="https://github.com/user-attachments/assets/4372bb17-8f35-4003-8e4f-e9c588112894" />
 
 ### 3. Records
 <img width="2077" height="1171" alt="image" src="https://github.com/user-attachments/assets/0217dd87-20c0-4a7b-bddf-66b9509e8af0" />
