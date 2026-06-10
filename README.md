@@ -28,7 +28,7 @@ This project put key Power BI features into practice. Here's what we mastered:
     * **🎚️ Slicers:** Enabling dynamic, user-driven data filtering.
     * **🔘 Buttons & Bookmarks:** For streamlined navigation and managing filter pane visability.
 
-##📊 Dashboard Overview
+## 📊 Dashboard Overview
 
 ### Executive Overview
 <img width="2065" height="1170" alt="image" src="https://github.com/user-attachments/assets/c3235d6a-3a8d-456b-bf35-67e8507329b3" />
