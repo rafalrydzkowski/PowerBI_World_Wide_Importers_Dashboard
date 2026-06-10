@@ -2,7 +2,6 @@
 
 ## Introduction
 
-Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers**, **Job Transitioners**, and **Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
 ## Dashboard File
 
@@ -14,7 +13,7 @@ This project put key Power BI features into practice. Here's what we mastered:
 
 * **🎨 Dashboard Design:** Crafting an intuitive and visually appealing report layout (UX oriented).
 * **⚙️ Power Query ETL:** Performing data cleaning, shaping, and transformation.
-* **🔗 Data Modeling:** Building efficient data models with relationships (Star Schema).
+* **🔗 Data Modeling:** Building efficient data models with relationships (Star Schema). Creating dim_date table using DAX.
 * **🧮 DAX Fundamentals:** Creating calculations and aggregations to derive key insights (e.g. CALCULATE(), SAMEPERIODLASTYEAR(), SWITCH(), DATEADD(), SUM(), SUMX(), RELATED(), USERELATIONSHIP())
 * **📊 Visualizations Utilized:**
     * **📈 Core Charts:** Column, Bar and Line charts for comparisons and trends.
@@ -40,4 +39,4 @@ This project put key Power BI features into practice. Here's what we mastered:
 
 ## Conclusion
 
-This updated dashboard (Version 2.0) showcases Power BI's ability to transform extensive job posting data into a powerful, streamlined tool for career analysis. It empowers Job Seekers, Job Transitioners, and Job Swappers by allowing them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
+This updated dashboard showcases Power BI's ability to transform raw sales data into a powerful, streamlined tool for Company Performance analysis. It empowers Corporate's executives by allowing them to filter and explore essential sales trends insights efficiently on a 3 diffrent pages, helping them make data-driven decisions about their next business moves.
