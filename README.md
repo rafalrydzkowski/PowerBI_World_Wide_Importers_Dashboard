@@ -1,6 +1,6 @@
 # World Wide Importers Dashboard w/ Power BI
 
-## Introduction
+## 💡 Introduction
 
 World Wide Importers is an E-Commerce Company based in USA, they sell goods from diffrient industries like IT, Sport, Office. 
 This Dashboard helps company's executives make data-driven decisions answering following questions: 
@@ -24,15 +24,15 @@ This Dashboard helps company's executives make data-driven decisions answering f
 ### 3. Records
 <img width="2077" height="1171" alt="image" src="https://github.com/user-attachments/assets/0217dd87-20c0-4a7b-bddf-66b9509e8af0" />
 
-## Dashboard File
+## 📈 Dashboard File
 
 You can find the file for the dashboard here: [World_Wide_Importers_Dashboard.pbix](./World_Wide_Importers_Dashboard.pbix)
 
-## Datasets
+## 🗂️ Datasets
 
 You can find datasets I used for the dashboard here: [Datasets](./datasets)
 
-## Skills Showcased
+## 🛠 Skills Showcased
 
 This project put key Power BI features into practice. Here's what we mastered:
 
@@ -50,7 +50,7 @@ This project put key Power BI features into practice. Here's what we mastered:
     * **🎚️ Slicers:** Enabling dynamic, user-driven data filtering.
     * **🔘 Buttons & Bookmarks:** For streamlined navigation and managing filter pane visability.
 
-## Conclusion
+## 🧠 Conclusion
 
 This updated dashboard showcases Power BI's ability to transform raw sales data into a powerful, streamlined tool for Company Performance analysis. It empowers Corporate's executives by allowing them to filter and explore essential sales trends insights efficiently on a 3 diffrent pages, helping them make data-driven decisions about their next business moves.
 
