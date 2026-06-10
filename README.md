@@ -19,7 +19,7 @@ This dashboard helps the company's executives make data-driven decisions.
 
 ### 1. Executive Overview
 <img width="2067" height="1180" alt="image" src="https://github.com/user-attachments/assets/e48ee3f5-287d-4aa2-a930-6de537b87535" />
-<img width="2066" height="1172" alt="image" src="https://github.com/user-attachments/assets/44c1acc0-4e90-4a8c-b56b-5d8daa40a2dd" />
+<img width="2066" height="1167" alt="image" src="https://github.com/user-attachments/assets/9fbad724-c4eb-4657-8d97-3e647af9a257" />
 
 ### 2. Insights
 <img width="2061" height="1173" alt="image" src="https://github.com/user-attachments/assets/4372bb17-8f35-4003-8e4f-e9c588112894" />
