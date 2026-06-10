@@ -3,7 +3,10 @@
 ## 💡 Introduction
 
 World Wide Importers is an E-Commerce Company based in USA, they sell goods from diffrient industries like IT, Sport, Office. 
-This Dashboard helps company's executives make data-driven decisions answering following questions: 
+This Dashboard helps company's executives make data-driven decisions.
+
+## 🗝 Key Business Questions Answered
+
 * How Company perform comparing to PY?
 * Which Buying Group generates the highest revenue?
 * Do we notice any season trends during year?
