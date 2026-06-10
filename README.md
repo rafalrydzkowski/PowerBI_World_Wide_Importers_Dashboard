@@ -42,7 +42,7 @@ This project put key Power BI features into practice. Here's what was mastered:
 * **🎨 Dashboard Design:** Crafting an intuitive and visually appealing report layout (UX-oriented).
 * **⚙️ Power Query ETL:** Performing data cleaning, shaping, and transformation.
 * **🔗 Data Modeling:** Building efficient data models with relationships (Star Schema). Creating a `dim_date` table using DAX (`CALENDARAUTO()`).
-* **🧮 DAX Fundamentals:** Creating calculations and aggregations to derive key insights (e.g., `CALCULATE()`, `SAMEPERIODLASTYEAR()`, `SWITCH()`, `DATEADD()`, `SUM()`, `SUMX()`, `RELATED()`, `USERELATIONSHIP()`).
+* **🧮 DAX Fundamentals:** Creating calculations and aggregations to derive key insights (e.g., `CALCULATE()`, `SAMEPERIODLASTYEAR()`, `SWITCH()`, `DATEADD()`, `SUM()`, `SUMX()`, `RELATED()`, `USERELATIONSHIP()`, `SELECTEDVALUE()`).
 * **📊 Visualizations Utilized:**
     * **📈 Core Charts:** Column, Bar, and Line charts for comparisons and trends.
     * **🗺️ Map Charts:** For displaying geospatial data.
