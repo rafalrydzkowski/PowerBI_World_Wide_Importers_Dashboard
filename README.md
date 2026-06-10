@@ -7,6 +7,10 @@
 
 You can find the file for the dashboard here: [World_Wide_Importers_Dashboard.pbix](./World_Wide_Importers_Dashboard.pbix).
 
+## Datasets
+
+You can find datasets I used for the dashboard here: [Datasets](./datasets).
+
 ## Skills Showcased
 
 This project put key Power BI features into practice. Here's what we mastered:
