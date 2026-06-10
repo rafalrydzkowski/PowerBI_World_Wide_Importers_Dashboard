@@ -18,8 +18,8 @@ This dashboard helps the company's executives make data-driven decisions.
 ## 📊 Dashboard Overview
 
 ### 1. Executive Overview
-<img width="2065" height="1170" alt="image" src="https://github.com/user-attachments/assets/c3235d6a-3a8d-456b-bf35-67e8507329b3" />
-<img width="2073" height="1173" alt="image" src="https://github.com/user-attachments/assets/c7b8efc4-4314-4491-877b-13480b9795dc" />
+<img width="2067" height="1180" alt="image" src="https://github.com/user-attachments/assets/e48ee3f5-287d-4aa2-a930-6de537b87535" />
+<img width="2066" height="1172" alt="image" src="https://github.com/user-attachments/assets/44c1acc0-4e90-4a8c-b56b-5d8daa40a2dd" />
 
 ### 2. Insights
 <img width="2061" height="1173" alt="image" src="https://github.com/user-attachments/assets/4372bb17-8f35-4003-8e4f-e9c588112894" />
@@ -51,6 +51,7 @@ This project put key Power BI features into practice. Here's what was mastered:
     * **🎨 Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
 * **🖱️ Interactive Features:**
     * **🎚️ Slicers:** Enabling dynamic, user-driven data filtering.
+    * **⚙️ Parameters:** Enabling dynamic metric on the visuals (Revenue/Profit).
     * **🔘 Buttons & Bookmarks:** For streamlined navigation and managing filter pane visibility.
 
 ## 🧠 Conclusion
