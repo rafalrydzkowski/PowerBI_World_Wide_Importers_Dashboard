@@ -12,6 +12,18 @@ This Dashboard helps company's executives make data-driven decisions answering f
 * Which Salesperson perform the best?
 * How our performance differ across the diffrent States?
 
+## 📊 Dashboard Overview
+
+### 1. Executive Overview
+<img width="2065" height="1170" alt="image" src="https://github.com/user-attachments/assets/c3235d6a-3a8d-456b-bf35-67e8507329b3" />
+<img width="2073" height="1173" alt="image" src="https://github.com/user-attachments/assets/c7b8efc4-4314-4491-877b-13480b9795dc" />
+
+### 2. Insights
+<img width="2067" height="1173" alt="image" src="https://github.com/user-attachments/assets/35fb73bc-14e1-41f9-9134-512e49a5a4d7" />
+
+### 3. Records
+<img width="2077" height="1171" alt="image" src="https://github.com/user-attachments/assets/0217dd87-20c0-4a7b-bddf-66b9509e8af0" />
+
 ## Dashboard File
 
 You can find the file for the dashboard here: [World_Wide_Importers_Dashboard.pbix](./World_Wide_Importers_Dashboard.pbix)
@@ -37,18 +49,6 @@ This project put key Power BI features into practice. Here's what we mastered:
 * **🖱️ Interactive Features:**
     * **🎚️ Slicers:** Enabling dynamic, user-driven data filtering.
     * **🔘 Buttons & Bookmarks:** For streamlined navigation and managing filter pane visability.
-
-## 📊 Dashboard Overview
-
-### 1. Executive Overview
-<img width="2065" height="1170" alt="image" src="https://github.com/user-attachments/assets/c3235d6a-3a8d-456b-bf35-67e8507329b3" />
-<img width="2073" height="1173" alt="image" src="https://github.com/user-attachments/assets/c7b8efc4-4314-4491-877b-13480b9795dc" />
-
-### 2. Insights
-<img width="2067" height="1173" alt="image" src="https://github.com/user-attachments/assets/35fb73bc-14e1-41f9-9134-512e49a5a4d7" />
-
-### 3. Records
-<img width="2077" height="1171" alt="image" src="https://github.com/user-attachments/assets/0217dd87-20c0-4a7b-bddf-66b9509e8af0" />
 
 ## Conclusion
 
