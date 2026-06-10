@@ -4,13 +4,13 @@
 
 World Wide Importers is an E-Commerce Company based in USA, they sell goods from diffrient industries like IT, Sport, Office. 
 This Dashboard helps company's executives make data-driven decisions answering following questions: 
-* How we perform comparing to PY?
+* How Company perform comparing to PY?
 * Which Buying Group generates the highest revenue?
 * Do we notice any season trends during year?
-* How Net Profit Margin and AOV looks like?
+* What's the Net Profit Margin and AOV (average order value)?
 * Which product generates the highest revenue?
-* Which Salesperson perform the best?
-* How our performance differ across the diffrent States?
+* Which Salesperson performs the best?
+* How our performance differ across the region?
 
 ## 📊 Dashboard Overview
 
