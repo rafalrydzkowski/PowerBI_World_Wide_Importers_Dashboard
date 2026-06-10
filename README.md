@@ -5,7 +5,7 @@
 
 ## Dashboard File
 
-You can find the file for the dashboard here: `World_Wide_Importers_Dashboard.pbix`.
+You can find the file for the dashboard here: [World_Wide_Importers_Dashboard.pbix](./World_Wide_Importers_Dashboard.pbix).
 
 ## Skills Showcased
 
@@ -40,3 +40,12 @@ This project put key Power BI features into practice. Here's what we mastered:
 ## Conclusion
 
 This updated dashboard showcases Power BI's ability to transform raw sales data into a powerful, streamlined tool for Company Performance analysis. It empowers Corporate's executives by allowing them to filter and explore essential sales trends insights efficiently on a 3 diffrent pages, helping them make data-driven decisions about their next business moves.
+
+## 🌟 About Me
+I am a **Data Analytics enthusiast**, transforming data into actionable business insights 🔎
+
+* **Looking for:** Junior Data Analyst roles
+* **Tech I love:** SQL, Excel, Tableau, PowerBI
+
+📫 **Let's connect:** https://www.linkedin.com/in/rafal-rydzkowski-data/ | RafalRydzkowskiJ@gmail.com
+
